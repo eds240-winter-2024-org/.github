@@ -1,4 +1,6 @@
-## Hi there 👋
+## EDS 240 (Data Visualization & Communication), Winter 2024
+
+Repositories for GitHub Classroom
 
 <!--
 
