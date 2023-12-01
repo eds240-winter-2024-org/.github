@@ -1,6 +1,8 @@
 ## EDS 240 - Data Visualization & Communication (Winter 2024)
 
-Repositories for GitHub Classroom
+Repositories for GitHub Classroom and assignment answer keys.
+
+Find the course website at <https://samanthacsik.github.io/EDS-240-data-viz/>
 
 <!--
 
